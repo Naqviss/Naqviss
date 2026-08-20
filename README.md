@@ -5,18 +5,18 @@
 ### 🚀 Building scalable applications, clean interfaces & reliable backend systems
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Naqviss&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Naqviss&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
 
 ---
 
-## 💻 Full Stack Engineer
+## 💻 About Me
 
-I build **modern, scalable, and user-focused applications** across the entire technology stack.
+I’m a **Full Stack Engineer** focused on building modern, scalable, and user-friendly applications.
 
-My work spans from crafting responsive and intuitive frontend experiences to designing robust APIs, real-time systems, databases, and cloud-ready applications.
+I work across the complete application stack — from creating responsive frontend experiences to designing robust backend APIs, real-time systems, databases, and cloud-ready solutions.
 
 ```text
 Frontend     → React • Angular • JavaScript • Redux • MUI
@@ -35,11 +35,12 @@ Mobile       → Flutter
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### 🎨
 
-**Frontend**
+### Frontend
 
 React
 Angular
@@ -53,7 +54,7 @@ Responsive UI
 
 ### ⚙️
 
-**Backend**
+### Backend
 
 Django
 REST APIs
@@ -67,7 +68,7 @@ Authentication
 
 ### 🗄️
 
-**Data**
+### Data
 
 PostgreSQL
 MySQL
@@ -81,7 +82,7 @@ API Integration
 
 ### ☁️
 
-**Cloud**
+### Cloud
 
 AWS
 Firebase
@@ -90,6 +91,7 @@ Cloud Services
 Scalability
 
 </td>
+
 </tr>
 </table>
 
@@ -100,25 +102,25 @@ Scalability
 ### ⚛️ Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,angular,redux,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,angular,redux,js,html,css" alt="Frontend Technologies" />
 </p>
 
 ### 🐍 Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs" alt="Backend Technologies" />
 </p>
 
 ### 🗄️ Database & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,aws" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,aws" alt="Database and Cloud Technologies" />
 </p>
 
 ### 📱 Mobile
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Mobile Technologies" />
 </p>
 
 ---
@@ -127,7 +129,8 @@ Scalability
 
 <table>
 <tr>
-<td>
+
+<td width="50%">
 
 ### 🌐 Web Development
 
@@ -135,17 +138,19 @@ Building responsive, accessible, and scalable web applications using modern fron
 
 </td>
 
-<td>
+<td width="50%">
 
 ### 🔌 API Development
 
 Designing clean and maintainable REST APIs with authentication, authorization, and efficient data handling.
 
 </td>
+
 </tr>
 
 <tr>
-<td>
+
+<td width="50%">
 
 ### ⚡ Real-Time Systems
 
@@ -153,13 +158,14 @@ Building real-time features using WebSockets and event-driven communication.
 
 </td>
 
-<td>
+<td width="50%">
 
 ### ☁️ Cloud Applications
 
 Developing cloud-ready applications with AWS, Firebase, and scalable architecture.
 
 </td>
+
 </tr>
 </table>
 
@@ -169,15 +175,30 @@ Developing cloud-ready applications with AWS, Firebase, and scalable architectur
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Naqviss&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img
+src="https://github-readme-stats.vercel.app/api?username=Naqviss&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+height="180"
+alt="GitHub Statistics"
+/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naqviss&layout=compact&hide_border=true&theme=transparent" />
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naqviss&layout=compact&hide_border=true&theme=transparent"
+height="180"
+alt="Top Languages"
+/>
 
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Naqviss&theme=transparent&hide_border=true" />
+<img
+src="https://streak-stats.demolab.com?user=Naqviss&theme=transparent&hide_border=true"
+alt="GitHub Streak"
+/>
 
 </p>
 
@@ -187,7 +208,10 @@ Developing cloud-ready applications with AWS, Firebase, and scalable architectur
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Naqviss/Naqviss/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img
+src="https://raw.githubusercontent.com/Naqviss/AbbasHaiderNaqvi/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
+/>
 
 </p>
 
@@ -208,7 +232,7 @@ I'm interested in working on:
 
 <div align="center">
 
-### 🤝 Let's Build Something Great
+## 🤝 Let's Build Something Great
 
 **⭐ Build clean. Solve problems. Ship great software.**
 
