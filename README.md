@@ -173,50 +173,28 @@ Developing cloud-ready applications with AWS, Firebase, and scalable architectur
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=Naqviss&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-height="180"
-alt="GitHub Statistics"
-/>
+<a href="https://github.com/Naqviss">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=Naqviss&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;theme=tokyonight&amp;cache_seconds=86400"
+    alt="Naqviss GitHub Statistics"
+  />
+</a>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naqviss&layout=compact&hide_border=true&theme=transparent"
-height="180"
-alt="Top Languages"
-/>
+<a href="https://github.com/Naqviss">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naqviss&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=tokyonight&amp;cache_seconds=86400"
+    alt="Naqviss Top Languages"
+  />
+</a>
 
-</p>
+</div>
 
----
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=Naqviss&theme=transparent&hide_border=true"
-alt="GitHub Streak"
-/>
-
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-
-<img
-src="https://raw.githubusercontent.com/Naqviss/AbbasHaiderNaqvi/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
-/>
-
-</p>
-
----
-
+___
 # 💼 Open to Opportunities
 
 I'm interested in working on:
